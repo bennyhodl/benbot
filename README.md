@@ -17,8 +17,8 @@ Requires Node.js 20 or newer. GitHub CLI authentication (`gh auth login`) is use
 
 ```sh
 cd ~/Development/benbot/lib
-npm ci
-npm install --global .
+pnpm install --frozen-lockfile
+pnpm link --global
 benbot install
 ```
 
@@ -73,10 +73,10 @@ Updates, installs, and removal refuse to overwrite modified vendor files, includ
 
 ```sh
 cd lib
-npm ci
-npm test
-npm run check
-npm pack --dry-run
+pnpm install --frozen-lockfile
+pnpm test
+pnpm run check
+pnpm pack --out /tmp/benbot.tgz
 ```
 
 ## Shared instructions

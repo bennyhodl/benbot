@@ -22,5 +22,6 @@
     "yaml": "^2.8.1",
     "@clack/core": "1.5.0",
     "fast-string-width": "^3.0.2"
-  }
+  },
+  "packageManager": "pnpm@10.26.0"
 }
