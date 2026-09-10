@@ -1,0 +1,26 @@
+{
+  "name": "benbot",
+  "version": "0.1.0",
+  "description": "Personal skills, pinned GitHub downloads, and shared agent symlinks.",
+  "type": "module",
+  "bin": {
+    "benbot": "src/cli.js"
+  },
+  "files": [
+    "src",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check src/cli.js && node --check src/store.js && node --check src/github.js && node --check src/soul.js && node --check src/discovery.js && node --check src/picker.js && node --check src/viewport.js"
+  },
+  "dependencies": {
+    "@clack/prompts": "1.8.0",
+    "yaml": "^2.8.1",
+    "@clack/core": "1.5.0",
+    "fast-string-width": "^3.0.2"
+  }
+}

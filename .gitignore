@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+.benbot-busy/
+.benbot-stage-*/
+benbot.local.json
+.benbot-cache/
+__pycache__/
+*.pyc
+vendor/

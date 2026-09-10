@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "skills": {
+    "add-secret": {
+      "repo": "LygosLabs/lstack",
+      "path": "skills/add-secret",
+      "ref": "master",
+      "commit": "ee07226d0f88269df460eed16bcd8dfe975a271a",
+      "tree": "3c5bf3a48f7a4abc230dfaa85d817bd4baf60fa5",
+      "digest": "a9adfa8679eeebcd1c9d952635d4f5a610f8c0eabdf9f54ea6854d7fc495829c",
+      "private": true
+    },
+    "analysis-presentation": {
+      "repo": "LygosLabs/lstack",
+      "path": "skills/analysis-presentation",
+      "ref": "master",
+      "commit": "ee07226d0f88269df460eed16bcd8dfe975a271a",
+      "tree": "69c19663df40f6bee409414337db430a42d2e40a",
+      "digest": "221349a7b33da8e61effd0c85c8946928c15b9672619f05bb300779d55396183",
+      "private": true
+    },
+    "bro": {
+      "repo": "cursor/plugins",
+      "path": "pstack/skills/bro",
+      "ref": "main",
+      "commit": "7366ac128bdf95f45e6734f412b49a4031800169",
+      "tree": "53c3b2c5dc11fe0ee4156468da27505df9239dc6",
+      "digest": "0f3aff2f32afcb0f43852e3a95e8046bb9dc6615a3a1db6ac02dddfbf8693ddc",
+      "private": false
+    },
+    "chainlink-oracle": {
+      "repo": "LygosLabs/lstack",
+      "path": "skills/chainlink-oracle",
+      "ref": "master",
+      "commit": "ee07226d0f88269df460eed16bcd8dfe975a271a",
+      "tree": "93c146d7bf0f771ee89b0f15f441dbc2c345e9fe",
+      "digest": "bfc423d2e190921feeb18aa54ddfbef37ac5b602bf82fae25286f03c3c2a0261",
+      "private": true
+    },
+    "cloud-sql": {
+      "repo": "LygosLabs/lstack",
+      "path": "skills/cloud-sql",
+      "ref": "master",
+      "commit": "ee07226d0f88269df460eed16bcd8dfe975a271a",
+      "tree": "38ff789424d97e8ff1174897134ad142197224c3",
+      "digest": "4a09a024317d39d91cf6e61414f66ca3167781c4549362522c6209e43d7790ba",
+      "private": true
+    },
+    "core-cli": {
+      "repo": "LygosLabs/lstack",
+      "path": "skills/core-cli",
+      "ref": "master",
+      "commit": "ee07226d0f88269df460eed16bcd8dfe975a271a",
+      "tree": "4aa10d1bb54210a8b1a2005ba3db1e1cca75e4ed",
+      "digest": "8672bec2ceabff5051541afb21c0d32dd6cd377f7dfa5fbbb82234293269c6a0",
+      "private": true
+    },
+    "deslop": {
+      "repo": "cursor/plugins",
+      "path": "cursor-team-kit/skills/deslop",
+      "ref": "main",
+      "commit": "7366ac128bdf95f45e6734f412b49a4031800169",
+      "tree": "ac9ba043f9dd3b3a8850de6624ec5bc12e375599",
+      "digest": "551bfc75ecabf03a78dcd49b4b0f53b8207134a64e3e4f1cba85702fc8841a26",
+      "private": false
+    },
+    "how": {
+      "repo": "cursor/plugins",
+      "path": "pstack/skills/how",
+      "ref": "main",
+      "commit": "7366ac128bdf95f45e6734f412b49a4031800169",
+      "tree": "ec7ec1c4ce1a4194695b6759a54e8a218b0f3936",
+      "digest": "52966ab1de4c75e77d778d65f715b81f2aec33101fe58f574488a39f03a510a0",
+      "private": false
+    },
+    "improve-codebase-architecture": {
+      "repo": "mattpocock/skills",
+      "path": "skills/engineering/improve-codebase-architecture",
+      "ref": "main",
+      "commit": "3cca18b368ae95cdbdebbff572ccafa662551015",
+      "tree": "3d35cd438f4067b03c8b3792e038960e4ac11526",
+      "digest": "3bd76c2c6e705dbdba03f4140286b0c7413e610a520d25035fa09d37bf3ed4c8",
+      "private": false
+    },
+    "investigate-issue": {
+      "repo": "LygosLabs/lstack",
+      "path": "skills/investigate-issue",
+      "ref": "master",
+      "commit": "ee07226d0f88269df460eed16bcd8dfe975a271a",
+      "tree": "40daaf9fea493e823be5885ae01e886a23728510",
+      "digest": "2cd4cadc7852cc1d25bf2760e78312d73d4d478cf0bc9f9629cdb392512d3587",
+      "private": true
+    },
+    "investigate-loan": {
+      "repo": "LygosLabs/lstack",
+      "path": "skills/investigate-loan",
+      "ref": "master",
+      "commit": "ee07226d0f88269df460eed16bcd8dfe975a271a",
+      "tree": "a2ff12823e0694fa72806c98aaa54fdb006516b6",
+      "digest": "ed4a4bb5ce24f09eeeca0aca91a2dc9fad7c545094395c9fdea3900ccb0bba6c",
+      "private": true
+    },
+    "lygos-logs": {
+      "repo": "LygosLabs/lstack",
+      "path": "skills/lygos-logs",
+      "ref": "master",
+      "commit": "ee07226d0f88269df460eed16bcd8dfe975a271a",
+      "tree": "0e2ed17016404fd018c781fce2b3b2ae0975848e",
+      "digest": "a99f3cf54eca635c7d347a708ce362d4b38a161232a69c5329af945f9d3b60c1",
+      "private": true
+    },
+    "pr-dashboard": {
+      "repo": "LygosLabs/lstack",
+      "path": "skills/pr-dashboard",
+      "ref": "master",
+      "commit": "ee07226d0f88269df460eed16bcd8dfe975a271a",
+      "tree": "8102df525ecd843ade595637e0d36af9edd083fa",
+      "digest": "399acf8aa2b4aa9ab2ab67bea82f43aceea7d73c3dc1968e2bc5f722ec851ad4",
+      "private": true
+    },
+    "pr-review-triage": {
+      "repo": "LygosLabs/lstack",
+      "path": "skills/pr-review-triage",
+      "ref": "master",
+      "commit": "ee07226d0f88269df460eed16bcd8dfe975a271a",
+      "tree": "218bd9431e2a22ac630cd6de1635d3b388db5ee2",
+      "digest": "e9c6a06e0bad2add2df792b40eb493a8302dcb88ee50c94178b66e4d1e954377",
+      "private": true
+    },
+    "teach": {
+      "repo": "cursor/plugins",
+      "path": "pstack/skills/teach",
+      "ref": "main",
+      "commit": "7366ac128bdf95f45e6734f412b49a4031800169",
+      "tree": "3ee517292dae0476dc516f9f3805c08fb943c6ff",
+      "digest": "4150650f3d0192242cee315dd0fdeabae3571584b9f7f024c31c7967fbb1df2d",
+      "private": false
+    },
+    "unslop": {
+      "repo": "cursor/plugins",
+      "path": "pstack/skills/unslop",
+      "ref": "main",
+      "commit": "7366ac128bdf95f45e6734f412b49a4031800169",
+      "tree": "e19dcc9c531f4609df38bc86c62cf0e8b6d8f444",
+      "digest": "d64f914218bfa79f7e2a86c41be48566d869a94bc1a7fddd468569bfac4addce",
+      "private": false
+    },
+    "wait-what": {
+      "repo": "mattpocock/skills",
+      "path": "skills/productivity/wait-what",
+      "ref": "main",
+      "commit": "3cca18b368ae95cdbdebbff572ccafa662551015",
+      "tree": "c119d66111cc1bac94cbc51322cd34ed21aa0446",
+      "digest": "ea689c5012d82f8717cea31b880c769e656e083afdf9a67f21dec78e077a437e",
+      "private": false
+    },
+    "why": {
+      "repo": "cursor/plugins",
+      "path": "pstack/skills/why",
+      "ref": "main",
+      "commit": "7366ac128bdf95f45e6734f412b49a4031800169",
+      "tree": "7cae2f31c55827495b38ba185c5bd901b3a85fa2",
+      "digest": "2163dbe1a37af9eb2dd071b9336c701a6f26f328a0318eb23e3fbd42e8c6f8e7",
+      "private": false
+    }
+  }
+}
