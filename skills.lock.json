@@ -10,6 +10,15 @@
       "digest": "a9adfa8679eeebcd1c9d952635d4f5a610f8c0eabdf9f54ea6854d7fc495829c",
       "private": true
     },
+    "agent-browser": {
+      "repo": "vercel-labs/agent-browser",
+      "path": "skills/agent-browser",
+      "ref": "main",
+      "commit": "a156ff5760414dc7bfc1d9c074b9eb6441a79b4f",
+      "tree": "82def67855a0d2aad7794207951820fa5422fdb0",
+      "digest": "012d2780d17b5e43cbfad2e4434867ac08d908d0ca9833e4138792d53ef28e38",
+      "private": false
+    },
     "analysis-presentation": {
       "repo": "LygosLabs/lstack",
       "path": "skills/analysis-presentation",
