@@ -4,6 +4,8 @@ Never reference yourself in git commits or GitHub PRs
 
 Every outbound GitHub issue comment, PR comment, review comment, and review-thread reply must begin with this GitHub NOTE alert:
 
+If you need to create a sub-agent *ALWAYS* use `Opus 5` or `Sol 5.6` unless specified.
+
 ```markdown
 > [!NOTE]
 > 🤖 **<exact model name> responding on behalf of <user>**
@@ -13,3 +15,5 @@ Every outbound GitHub issue comment, PR comment, review comment, and review-thre
 - `<user>` must be the authenticated GitHub login from `gh api user --jq '.login'`, or the person's first name when known.
 - Put a blank line between the NOTE alert and the message body.
 - This disclosure is mandatory for every GitHub reply or comment. Do not post without it.
+
+If you need to manage skills, install skills, or create skills use the `benbot` CLI.
